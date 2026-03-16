@@ -1,5 +1,18 @@
 #  About Me:
-Hi I'm Terry!<br><br>I am currently a Junior Undergraduate student at Albion College, working towards <br>acquiring my Bachelor of Arts in Computer Science. <br><br>I have a passion for learning and problem-solving, and am always looking for new <br>opportunities to expand my knowledge and professional expertise. <br><br>I always enjoy learning about and trying out new technologies, and while I'm not working<br>and learning, I enjoy exploring the limits and possibilities of technology to reinforce my <br>knowledge.
+I am an IT support professional and computer science undergraduate with experience supporting reliable, user-focused technology environments across academic and healthcare settings. My background reflects a strong commitment to technical support, system reliability, and the foundational work required to keep organizations operating effectively. My experience includes supporting daily technology operations in a college innovation lab and contributing to the launch of IT systems for a medical practice. I have worked across hardware and software troubleshooting, systems configuration, service request management, and baseline security monitoring. I approach IT support with a focus on
+accuracy, documentation, and clear communication, ensuring users receive dependable and consistent technical assistance.
+Some of the key competencies I have honed include:
+► Technical support and troubleshooting: Resolve hardware and software issues to maintain system stability
+► Systems and infrastructure support: Configure and support workstations, networks, and essential applications
+► Security and access awareness: Assist with access controls, monitoring, and basic risk identification
+► Workflow and process improvement: Improve turnaround times through prioritization and structured processes
+► User support and communication: Provide clear, professional support to technical and non-technical users
+► Technical documentation: Maintain accurate system and security documentation
+► Programming foundations: Working knowledge of Python and JavaScript
+
+I am focused on continuing to develop my expertise in IT support and technical operations while delivering dependable service and attention to detail. I value well-documented systems, security awareness, and strong support practices.
+
+I welcome connections and conversations for potential collaboration. Let’s connect!
 
 
 ## 🌐 Socials:
