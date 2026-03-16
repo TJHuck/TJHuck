@@ -1,19 +1,5 @@
 #  About Me:
-I am an IT support professional and computer science undergraduate with experience supporting reliable, user-focused technology environments across academic and healthcare settings. My background reflects a strong commitment to technical support, system reliability, and the foundational work required to keep organizations operating effectively. My experience includes supporting daily technology operations in a college innovation lab and contributing to the launch of IT systems for a medical practice. I have worked across hardware and software troubleshooting, systems configuration, service request management, and baseline security monitoring. I approach IT support with a focus on
-accuracy, documentation, and clear communication, ensuring users receive dependable and consistent technical assistance.
-Some of the key competencies I have honed include:
-► Technical support and troubleshooting: Resolve hardware and software issues to maintain system stability
-► Systems and infrastructure support: Configure and support workstations, networks, and essential applications
-► Security and access awareness: Assist with access controls, monitoring, and basic risk identification
-► Workflow and process improvement: Improve turnaround times through prioritization and structured processes
-► User support and communication: Provide clear, professional support to technical and non-technical users
-► Technical documentation: Maintain accurate system and security documentation
-► Programming foundations: Working knowledge of Python and JavaScript
-
-I am focused on continuing to develop my expertise in IT support and technical operations while delivering dependable service and attention to detail. I value well-documented systems, security awareness, and strong support practices.
-
-I welcome connections and conversations for potential collaboration. Let’s connect!
-
+Hi,<br> I'm Terry!I am an IT support professional and computer science undergraduate with experience supporting reliable, user-focused technology environments across academic and healthcare settings. My background reflects a strong commitment to technical support, system reliability, and the foundational work required to keep organizations operating effectively. My experience includes supporting daily technology operations in a college innovation lab and contributing to the launch of IT systems for a medical practice. I have worked across hardware and software troubleshooting, systems configuration, service request management, and baseline security monitoring. I approach IT support with a focus on<br>accuracy, documentation, and clear communication, ensuring users receive dependable and consistent technical assistance.<br><br>Some of the key competencies I have honed include:<br>► Technical support and troubleshooting: Resolve hardware and software issues to maintain system stability<br>► Systems and infrastructure support: Configure and support workstations, networks, and essential applications<br>► Security and access awareness: Assist with access controls, monitoring, and basic risk identification<br>► Workflow and process improvement: Improve turnaround times through prioritization and structured processes<br>► User support and communication: Provide clear, professional support to technical and non-technical users<br>► Technical documentation: Maintain accurate system and security documentation<br>► Programming foundations: Working knowledge of Python and JavaScript<br><br>I am focused on continuing to develop my expertise in IT support and technical operations while delivering dependable service and attention to detail. I value well-documented systems, security awareness, and strong support practices.<br><br>I welcome connections and conversations for potential collaboration. Let’s connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/terry-huck/) 
