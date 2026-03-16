@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi I'm Terry!<br><br>I am currently a Junior Undergraduate student at Albion College, working towards <br>acquiring my Bachelor of Arts in Computer Science. <br><br>I have a passion for learning and problem-solving, and am always looking for new <br>opportunities to expand my knowledge and professional expertise. <br><br>I always enjoy learning about and trying out new technologies, and while I'm not working<br>and learning, I enjoy exploring the limits and possibilities of technology to reinforce my <br>knowledge.
 
 
