@@ -16,8 +16,9 @@ Supported the launch of a new medical practice by implementing foundational IT s
 * **InReach Primary Care Office Website**: Recruited as an independant contractor to build, deploy, and maintain a primary care office website
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/terry-huck/) 
-Email: tjhuck821@gmail.com
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/terry-huck/) 
+
+* Email: tjhuck821@gmail.com
 
 ### Interested in collaborating? Don't be afraid to reach out via email or LinkedIn!
 
